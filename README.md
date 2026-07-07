@@ -9,7 +9,7 @@ Project Kelompok ini dibuat untuk memenuhi tugas besar mata kuliah **Analisis Al
 Berikut adalah susunan anggota kelompok 7 beserta kontribusi nyata dalam pengembangan sistem:
 
 1. **Andri Dwi Yuliyanto (NIM: 250202976)**
-2. **Ahmad Rohisun  (NIM: 2502029xx)**
+2. **Ahmad Rohisun  (NIM: 250202984)**
 3. **Latifah Risti Anggraeni (NIM: 250202945)**
 4. **Miftakhul Lisna Esa Baehaqi (NIM: 250202951)**
 
